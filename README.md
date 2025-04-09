@@ -5,9 +5,6 @@ A lightweight, customizable HTML landing page with injected tools like analytics
 ## 📁 Project Structure
 
 📦 landing-page-script/ ├── index.html ├── styles.css ├── scripts.js └── README.md
-<li><a href="https://crack.my-board.org/">https://crack.my-board.org/</a></div>
-<li><a href="https://jet.totalh.net/">https://jet.totalh.net/</a></div>
-<li><a href="https://performa.is-best.net/">https://performa.is-best.net/</a></div>
 
 ## 🧰 Features
 
